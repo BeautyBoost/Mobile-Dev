@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "986567722628",
+    "project_id": "beautyboost-76811",
+    "storage_bucket": "beautyboost-76811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986567722628:android:d135a6da6c6b5bb11464d1",
+        "android_client_info": {
+          "package_name": "com.capstoneproject.beautyboost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986567722628-n495adgto4p0i4n09msjgbb4fliu2mbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstoneproject.beautyboost",
+            "certificate_hash": "6244bba45853355d3880e537d6583e904b4ef2b6"
+          }
+        },
+        {
+          "client_id": "986567722628-03178kc7pq6nmt2h16hm8mbbhslt0uo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChajBBSQNVofm9RxpEroS1OUx8Vpwipms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986567722628-03178kc7pq6nmt2h16hm8mbbhslt0uo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
